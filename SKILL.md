@@ -3,8 +3,9 @@ name: systemic-analysis
 description: A skill for tracing individual access problems to structural causes and designing structural solutions.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5124
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - systemic-analysis
